@@ -124,8 +124,8 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="WeightView" destination="YIh-Wr-wDN" id="xNi-7h-d4G"/>
                         <outlet property="heightView" destination="onR-F4-ZbV" id="5CR-8c-sJw"/>
+                        <outlet property="weightView" destination="YIh-Wr-wDN" id="xNi-7h-d4G"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
